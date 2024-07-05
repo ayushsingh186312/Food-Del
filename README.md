@@ -24,6 +24,12 @@
 	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(142).png" />
 	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(143).png" />
 	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(144).png" />
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(267).png" />
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(268).png" />
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(269).png" />
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(270).png" />
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(272).png" />
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(273).png" />
 </p>
 
 # Installation
