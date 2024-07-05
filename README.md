@@ -15,11 +15,13 @@
     
   </p>
 
-https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(141).png
+
 ![Picture](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/tomato.png)
 
 
-
+<p align="center">
+	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(141).png" />
+</p>
 
 # Installation
 
