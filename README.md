@@ -63,7 +63,7 @@ npm run dev
 > Open a terminal in VS Code and go into the backend folder and then run
 
 ```
-npm start server
+npm run server
 ```
 
 - [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env
